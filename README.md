@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/matthewpriddy/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/matthewpriddy/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Creating Resource Groups and Deploy Virtual Machines
+  - [Creating Resource Groups and Deploy Virtual Machines]
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/matthewpriddy/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/matthewpriddy/azure-network-protocols)
 
