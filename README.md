@@ -7,7 +7,7 @@
   
   - [osTicket: Prerequisites and Installation](https://github.com/matthewpriddy/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/matthewpriddy/post-install-configuration)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/matthewpriddy/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/matthewpriddy/osticket---ticket-lifecycle)
 
 <details open>
   <summary><img src="https://i.imgur.com/1DDZ4Ui.png" height="5%" width="15%" alt="Microsoft Azure"/></summary>
