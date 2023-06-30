@@ -13,8 +13,8 @@
   <summary><img src="https://i.imgur.com/1DDZ4Ui.png" height="5%" width="15%" alt="Microsoft Azure"/></summary>
   
   - [Creating Resource Groups and Deploying Virtual Machines](https://github.com/matthewpriddy/azure-vm-resource)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/matthewpriddy/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/matthewpriddy/azure-network-protocols)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/matthewpriddy/active-directory-deployed-in-the-cloud)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/matthewpriddy/network-security-groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines)
 
 <h2>🤳Connect with me:</h2>
 
