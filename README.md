@@ -2,11 +2,16 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+<details open>
+<summary><img src="https://i.imgur.com/KzJbWRS.png" height="5%" width="10%" alt="osTicket"/></summary>
+  
   - [osTicket: Prerequisites and Installation](https://github.com/matthewpriddy/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/matthewpriddy/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/matthewpriddy/ticket-lifecycle)
-- <b>Microsoft Azure</b>
+
+<details open>
+  <summary><img src="https://i.imgur.com/1DDZ4Ui.png" height="5%" width="15%" alt="Microsoft Azure"/></summary>
+  
   - [Creating Resource Groups and Deploying Virtual Machines](https://github.com/matthewpriddy/azure-vm-resource)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/matthewpriddy/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/matthewpriddy/azure-network-protocols)
